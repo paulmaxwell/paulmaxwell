@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a web developer who likes working with Laravel and Vue.js. I enjoy working on projects that help people save time and work more efficiently.
 
+Follow me on [Twitter](https://twitter.com/paulmaxwelldev) where I write about web development and building in public.
+
 ### About Me:
 - Synthwave addict 🎵
 - Clean code enthusiast ✨
